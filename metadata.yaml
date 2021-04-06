@@ -1,5 +1,8 @@
 _repo: Les-pornographes-sacres-La-confession-et-les-confesseurs-Appendice-Pieuses-exhortations-par-M__64935
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64935-h/images/cover.jpg
 creator:
   author:
     agent_name: Taxil, Léo
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/L%C3%A9o_Taxil
     - https://fr.wikipedia.org/wiki/L%C3%A9o_Taxil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64935#Les-pornographes-sacres-La-confession-et-les-confesseurs-Appendice-Pieuses-exhortations-par-M_
 gutenberg_issued: '2021-03-27'
 gutenberg_type: Text
 identifiers:
