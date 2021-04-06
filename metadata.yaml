@@ -1,0 +1,40 @@
+_repo: Les-pornographes-sacres-La-confession-et-les-confesseurs-Appendice-Pieuses-exhortations-par-M__64935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taxil, Léo
+    aliases:
+    - Jogand-Pages, Gabriel Antoine
+    - Taxil, Leo
+    - Taxil, León
+    - Jogand-Pagès, Gabriel Antoine
+    - Savarin, Jeanne
+    - Taxil, Leon
+    - Bataille, Dr
+    - Vaughan, Diana
+    - Volpi, G. S.
+    birthdate: 1854
+    deathdate: 1907
+    gutenberg_agent_id: '53104'
+    url: http://www.gutenberg.org/2009/agents/53104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L%C3%A9o_Taxil
+    - https://fr.wikipedia.org/wiki/L%C3%A9o_Taxil
+description: ''
+gutenberg_issued: '2021-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64935'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Controversial literature'
+- !lcsh 'Confession -- Controversial literature'
+- GITenberg
+title: "Les pornographes sacrés: La confession et les confesseurs\r\nAppendice: Pieuses\
+  \ exhortations, par Monseigneur Claret; Mœchialogie, par le R. P. Debreyne; Compendium;\
+  \ et les Diaconales, par Monseigneur Bouvier"
+url: http://www.gutenberg.org/ebooks/64935
